@@ -1,0 +1,26 @@
+body{
+  background-color: Tomato;
+}
+
+.main {
+  background-color: DodgerBlue;
+  position: relative;
+  text-align: center;
+}
+
+
+
+.col {
+  background-color: green;
+  display: inline-block;
+  width: 360px;
+  height: fill;
+  margin: 15px;
+  padding: 10px;
+  vertical-align: top;
+  
+}
+
+.col img{
+  width: 360px;
+}
